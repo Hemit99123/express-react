@@ -1,0 +1,22 @@
+{
+  "name": "express3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "build": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-react-views": "^0.11.0",
+    "nodemon": "^2.0.7",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.6.0",
+    "react-dom": "^16.14.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
